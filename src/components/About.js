@@ -17,13 +17,13 @@ function Cards() {
                     src='images/clogonew.png'
                     text="C"
                     label="Flexible"
-                    path='/projects'
+                    path='/'
                     />
                     <CardItem 
                     src='images/javalogonew.png'
                     text="Java"
                     label="Object Oriented"
-                    path='/projects'
+                    path='/'
                     />
                 </ul>
                 <ul className='cards__items'>
@@ -31,13 +31,13 @@ function Cards() {
                     src='images/pythonlogonew.png'
                     text="Python"
                     label="Versatile"
-                    path='/projects'
+                    path='/'
                     />
                     <CardItem 
                     src='images/javascriptlogonew.png'
                     text="JavaScript"
                     label="Web"
-                    path='/projects'
+                    path='/'
                     />
                 </ul>
             </div>
