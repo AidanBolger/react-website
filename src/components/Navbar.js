@@ -48,9 +48,14 @@ function Navbar(){
                                 About Me
                             </Link>
                         </li>
-                        <li className='nav-item'>
+                        {/* <li className='nav-item'>
                             <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>
                                 Projects
+                            </Link>
+                        </li> */}
+                        <li className='nav-item'>
+                            <Link to='/workterm' className='nav-links' onClick={closeMobileMenu}>
+                                Work Term
                             </Link>
                         </li>
                         <li className='nav-item'>

@@ -3,6 +3,21 @@
     background: rgb(255, 255, 255);
 }
 
+.workterm{
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 20px;
+
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
     font-size: 50px;
     text-align: center;
