@@ -6,6 +6,7 @@ import HomePage from './components/pages/Home';
 import Projects from './components/pages/Projects';
 import AboutPage from './components/pages/About';
 import WorkTermPage from './components/pages/WorkTerm';
+import WorkTermPageTwo from './components/pages/WorkTermTwo';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path='/projects' Component={Projects}/>
           <Route path='/about' Component={AboutPage}/>
           <Route path='/workterm' Component={WorkTermPage}/>
+          <Route path='/worktermtwo' Component={WorkTermPageTwo}/>
         </Routes>
       </Router>
     </>
