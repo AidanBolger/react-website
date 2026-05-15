@@ -28,11 +28,12 @@ function Cards() {
           maintaining and improving production software, resolving incidents, and ensuring critical investment and pricing systems operate reliably. The environment
            emphasized collaboration, agile development practices, and continuous improvement in both technical and business processes.</p>
         <br></br>
-        <h1>Goals</h1>
-        <p>Develop a Strong Understanding of Equitable’s Existing Systems</p>
-        <p>Become a More Effective Communicator and Collaborator</p>
-        <p>Build an Understanding of Business Processes</p>
-        <p>Improve Organization and Time Management Skills</p>
+        <br></br>
+        <h1>Goals - These goals were made for my whole 8 month term</h1>
+        <p>Develop a Strong Understanding of Equitable’s Existing Systems - Independently diagnose and resolve at least 20 bugs, tasks, or incidents, delivering reliable fixes that meet team quality standards and require minimal rework.</p>
+        <p>Become a More Effective Communicator and Collaborator - Lead at least two team demos or presentations to communicate my work, while actively contributing to discussions and collaborating effectively throughout the term.</p>
+        <p>Build an Understanding of Business Processes - Produce at least five clear and useful documentation resources (e.g., system overviews, process guides) that help improve team understanding and knowledge sharing.</p>
+        <p>Achieve 99.99%+ daily price availability.</p>
        
         <h1>Skills Learned</h1>
         <p className='workterm'>Throughout my co-op term, I strengthened my programming and problem-solving abilities while working primarily with Python and learning 
@@ -42,6 +43,16 @@ function Cards() {
           documentation skills through creating technical documentation and presenting my work in a team demo. One of the most valuable aspects of the term was 
           learning how software development supports business operations in the financial industry. I gained experience understanding both the technical and business 
           sides of investment technology systems while working closely with teammates to solve problems efficiently.</p>
+
+        <h1>My Favourite Part of the Experience</h1>
+        <p>My favourite part of the experience was befriending all of the other COOP students and building strong professional relationships.
+          There were 16 total studends this term and I got to know all of them really well. We had an end of term Ping Pong tournament and I won the whole thing! It was a great way to bond with everyone and have fun outside of work. 
+        </p>
+
+        <div className="image-container">
+            <img alt='Photo of COOP students'
+            src='images/coop-students.jpg'/>
+        </div>
 
 
         <h1>Conclusions</h1>
