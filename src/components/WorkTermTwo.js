@@ -5,7 +5,7 @@ import './About.css'
 function Cards() {
   return (
     <div className='cards' id="cards-section">
-        <h1>Work Term Report - Summer 2024</h1>
+        <h1>Work Term Report - Fall 2024</h1>
         <p className='workterm'>During my extended fall work term at Glazier Medical Centre (GMC), I continued to focus on advancing my skills in e-form development, online 
           booking system support, and general IT assistance within the healthcare setting. This report summarizes my key learning outcomes, technical challenges, and the 
           technologies I engaged with, reflecting on how these experiences have contributed to my professional growth.</p>

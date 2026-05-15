@@ -5,52 +5,53 @@ import './About.css'
 function Cards() {
   return (
     <div className='cards' id="cards-section">
-        <h1>Work Term Report - Summer 2024</h1>
-        <p className='workterm'>During my summer work term at Glazier Medical Centre (GMC), I focused on advancing my skills in e-form development, online booking system support, and general IT 
-            assistance within the healthcare setting. This report summarizes my key learning outcomes, technical challenges, and the technologies I engaged with, reflecting on how 
-            these experiences have contributed to my professional growth.</p>
+        <h1>Work Term Report – Winter 2026</h1>
+        <h1>
+            Co-op Student – IT Investment Technology</h1>
+        <p className='workterm'>As a Co-op Student on the Investment Technology team, I worked on resolving incidents, debugging production issues, and supporting the code
+           side of the business. My responsibilities included investigating bugs, implementing fixes, reviewing and understanding existing codebases, and contributing to ongoing development tasks.
+          During the term, I completed over 20 incidents and support tasks, delivered one team demo, and created technical documentation to support knowledge sharing within the team. 
+          The role required technical problem-solving skills, effective communication, and the ability to work collaboratively in an agile software development environment.
+          I primarily worked with Python while also gaining exposure to functional programming concepts through F#. This experience allowed me to expand my understanding of software 
+          development practices and enterprise-level systems.
+          Conclusions</p>
         
          <div className="image-container">
-            <img alt='GMC Logo'
-            src='images/glaziermedical.jpg'/>
+            <img alt='Equitable Logo'
+            src='images/equitable-logo.jpg'/>
         </div>
 
          
         <h1>About My Employer</h1>
-        <p className='workterm'>Glazier Medical Centre is a multidisciplinary medical practice offering comprehensive healthcare services. Located in Oshawa, Ontario, 
-            GMC specializes in family medicine, with a strong emphasis on integrating technology to enhance patient care and streamline administrative processes. 
-            The centre's use of platforms like the Ocean system and Telus EMR places it within the healthcare IT domain, where electronic health records and digital
-             tools are essential for efficient operation. The IT department plays a crucial role in ensuring these systems run smoothly, supporting both patients and
-              healthcare providers.</p>
+        <p className='workterm'>Equitable is a Canadian financial services company that provides insurance, investment, and wealth management solutions. 
+          During my co-op term, I worked on the Investment Technology team, supporting systems and applications used across the business. The team focuses on 
+          maintaining and improving production software, resolving incidents, and ensuring critical investment and pricing systems operate reliably. The environment
+           emphasized collaboration, agile development practices, and continuous improvement in both technical and business processes.</p>
         <br></br>
         <h1>Goals</h1>
-        <p>Enhance Technological Literacy in e-Form Development</p>
-        <p>Improve Written Communication Skills for IT Support Documentation</p>
-        <p>Enhance Teamwork and Collaborative Skills in a Technical Environment</p>
-        <p>Develop Leadership Skills through IT Support Coordination</p>
-        <p>Improve Ethical Reasoning in Healthcare IT</p>
+        <p>Develop a Strong Understanding of Equitable’s Existing Systems</p>
+        <p>Become a More Effective Communicator and Collaborator</p>
+        <p>Build an Understanding of Business Processes</p>
+        <p>Improve Organization and Time Management Skills</p>
+       
         <h1>Skills Learned</h1>
-        <p className='workterm'>During my co-op term, I developed a range of valuable skills that will benefit my future career in IT. I gained in-depth 
-            technical proficiency with the Ocean platform and Telus PS Suite, learning how to integrate these systems effectively to streamline workflows 
-            between doctors and patients. My problem-solving abilities were enhanced as I tackled technical issues and communicated them clearly to both internal
-             teams and external vendors. I also improved my time management and organizational skills by successfully prioritizing tasks and meeting deadlines. In 
-             terms of communication, I strengthened both my written and oral skills, particularly through writing guides and leading training sessions. Additionally, 
-             I honed my collaboration and teamwork abilities, working closely with physicians to develop custom e-forms and ensuring their needs were met. My decision-making 
-             skills were tested as I learned when to ask questions and when to proceed independently, always ensuring the best outcomes for the projects I worked on. I 
-             demonstrated initiative and leadership by taking ownership of e-form development projects, which improved efficiency in the clinic. Lastly, I gained a deeper 
-             understanding of ethical reasoning, particularly in maintaining patient privacy and adhering to compliance regulations within the healthcare IT setting.</p>
+        <p className='workterm'>Throughout my co-op term, I strengthened my programming and problem-solving abilities while working primarily with Python and learning 
+          concepts related to functional programming with F#. I gained valuable experience debugging production issues, analyzing existing systems, and implementing reliable 
+          fixes for incidents and bugs. I also improved several professional skills, including communication, collaboration, and time management. Working within an agile 
+          environment taught me how to prioritize tasks effectively, participate in sprint planning, and adapt to changing priorities. Additionally, I developed stronger 
+          documentation skills through creating technical documentation and presenting my work in a team demo. One of the most valuable aspects of the term was 
+          learning how software development supports business operations in the financial industry. I gained experience understanding both the technical and business 
+          sides of investment technology systems while working closely with teammates to solve problems efficiently.</p>
 
-        <h1>Job Description</h1>
-        <p className='workterm'>As an IT Co-op Student, I worked on creating and integrating e-forms in the Ocean platform and Telus EMR, supporting staff and physicians 
-            with IT-related tasks, and assisting in the implementation of online booking capabilities. The role required both technical skills and effective communication,
-             particularly in documentation and teamwork. While some skills were developed in my academic studies, many were learned on the job, particularly in working with
-             healthcare-specific technologies.</p>
 
         <h1>Conclusions</h1>
-        <p className='workterm'>This work term allowed me to gain hands-on experience with healthcare IT systems and develop crucial skills in technological literacy, 
-            communication, teamwork, and leadership. I believe that this experience has significantly contributed to my professional growth, and I am confident that it will 
-            benefit my future career in IT. I would like to express my gratitude to Marion Streef, my supervisor, for her guidance and support throughout the term, as well as my 
-            colleagues for their collaboration and assistance.</p>
+        <p className='workterm'>Throughout my co-op term, I strengthened my programming and problem-solving abilities while working primarily with Python and 
+          learning concepts related to functional programming with F#. I gained valuable experience debugging production issues, analyzing existing systems, and 
+          implementing reliable fixes for incidents and bugs. I also improved several professional skills, including communication, collaboration, and time management. 
+          Working within an agile environment taught me how to prioritize tasks effectively, participate in sprint planning, and adapt to changing priorities. 
+          Additionally, I developed stronger documentation skills through creating technical documentation and presenting my work in a team demo. One of the most valuable 
+          aspects of the term was learning how software development supports business operations in the financial industry. I gained experience understanding both the 
+          technical and business sides of investment technology systems while working closely with teammates to solve problems efficiently.</p>
     </div>
   )
 }

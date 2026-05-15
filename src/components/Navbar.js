@@ -48,21 +48,21 @@ function Navbar(){
                                 About Me
                             </Link>
                         </li>
-                        {/* <li className='nav-item'>
+                        <li className='nav-item'>
                             <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>
                                 Projects
                             </Link>
-                        </li> */}
+                        </li>
                         <li className='nav-item'>
                             <Link to='/workterm' className='nav-links' onClick={closeMobileMenu}>
                                 Work Term
                             </Link>
                         </li>
-                        <li className='nav-item'>
+                        {/* <li className='nav-item'>
                             <Link to='/worktermtwo' className='nav-links' onClick={closeMobileMenu}>
                                 Work Term 2
                             </Link>
-                        </li>
+                        </li> */}
                         <li className='nav-item'>
                             <Link to='/' className='nav-links-mobile' onClick={closeMobileMenu}>
                                 Contact

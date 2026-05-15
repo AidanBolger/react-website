@@ -6,10 +6,6 @@ function Cards() {
   return (
     <div className='cards' id="cards-section">
         <h1>PROJECTS</h1>
-        <p>Welcome to my projects page! As a software engineering student with a passion for technology and innovation, 
-            I've compiled a showcase of my work here. From academic assignments, personal experiments, and commissioned work, each project reflects my journey in software development. 
-            Dive in to explore the applications I've built and the solutions I've crafted, each designed with a focus on functionality and user experience. Enjoy discovering 
-            how I turn ideas into reality!</p>
         <br></br>
         <div className='cards__container'>
             <div className='cards__wrapper'>
@@ -18,13 +14,13 @@ function Cards() {
                     src='images/clogonew.png'
                     text="8 Ball Physics Simulation"
                     label="C, Python, HTML, SQLite"
-                    path='8ball'
+                    path='/8ball'
                     />
                     <CardItem 
-                    src='images/javalogonew.png'
-                    text="Java"
+                    src='images/Wolvesvsheepimg.jpg'
+                    text="Java Wolves Vs Sheep Simulation"
                     label="Object Oriented"
-                    path='/projects'
+                    path='/wolvesvsheep'
                     />
                 </ul>
                 {/* <ul className='cards__items'>

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-        <small class='website-rights'>Aidan Bolger © 2023</small>
+        <small class='website-rights'>Aidan Bolger © 2025</small>
         <div class='social-icons'>
             <Link
               class='social-icon-link instagram'
